@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+pillow
+sqlalchemy
+seaborn
+cython
+sklearn
+wheel
+pymysql
